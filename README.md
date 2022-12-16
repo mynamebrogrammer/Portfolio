@@ -1,7 +1,6 @@
 # Habib Maksoud's portfolio page
 
-## This webpage provides a gateway for other people and people who are interested in my personal experience as a web developer. It also sstands as a
-showcase for all my potential projects that I have/will worke(d) on.
+## This webpage provides a gateway for other people and people who are interested in my personal experience as a web developer. It also stands as a showcase for all my potential projects that I have/will worke(d) on.
 
 <!-- ## Table of Contents
 
