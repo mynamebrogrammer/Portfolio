@@ -1,14 +1,18 @@
-# Name of Project
+# Habib Maksoud's portfolio page
 
-## Table of Contents
+## This webpage provides a gateway for other people and people who are interested in my personal experience as a web developer. It also sstands as a
+showcase for all my potential projects that I have/will worke(d) on.
+
+<!-- ## Table of Contents
 
 - [Overview](#overview)
 - [Built With](#built-with)
+HTML and CSS, for now.
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
-## Overview
+## Overview -->
 
 <!-- TODO: Add a screenshot of the live project.
     1. Link to a 'live demo.'
@@ -17,18 +21,18 @@
     4. Share any other tips or guidance for others attempting this or something similar.
  -->
 
-### Built With
+<!-- ### Built With -->
 
 <!-- TODO: List any MAJOR libraries/frameworks (e.g. React, Tailwind) with links to their homepages. -->
 
-## Features
+<!-- ## Features -->
 
 <!-- TODO: List what specific 'user problems' that this application solves. -->
 
-## Contact
+<!-- ## Contact -->
 
 <!-- TODO: Include icons and links to your RELEVANT, PROFESSIONAL 'DEV-ORIENTED' social media. LinkedIn and dev.to are minimum. -->
 
-## Acknowledgements
+<!-- ## Acknowledgements -->
 
 <!-- TODO: List any blog posts, tutorials or plugins that you may have used to complete the project. Only list those that had a significant impact. Obviously, we all 'Google' stuff while working on our things, but maybe something in particular stood out as a 'major contributor' to your skill set for this project. -->
