@@ -4,8 +4,10 @@
     box-sizing: border-box;
     list-style: none;
     font-family: 'La Belle Aurore', cursive, sans-serif, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
+    font-size: x-large;
+
 }
+
 body {
     background-image: url("./assets/webpage.jpg");
     background-repeat: no-repeat;
@@ -15,7 +17,7 @@ body {
 
 :root {
     --text-name-color: rgb(204, 147, 61);
-    --link-hover-color: coral;
+    --link-hover-color: rgb(239, 85, 29);
     --text-align-center: center;
 }
 
@@ -23,32 +25,47 @@ body {
     margin: 25px;
     text-align: var(--text-align-center);
 }
+
 .hero-title {
     display: inline-flex;
     flex-direction: column;
 }
+
 .text-color-main {
-    color:var(--text-name-color)
+    color: var(--text-name-color)
 }
+
 a:hover {
     color: var(--link-hover-color);
     text-decoration: none;
-    
+
 }
+
 .hero-cta {
     text-align: var(--text-align-center);
-    
+
 }
-.cta-btn{
-    color:var(--link-hover-color)
+
+.cta-btn {
+    color: var(--link-hover-color)
 }
+
 #projects {
     text-align: var(--text-align-center);
 }
+
 .footer {
-    text-align:var(--text-align-center)
+    text-align: var(--text-align-center)
 }
+
 .mb-4 {
     text-indent: 10px;
     text-align: var(--text-align-center)
+}
+
+img {
+    padding: 50px;
+    border-radius: 90px;
+    max-width: 100%;
+    height: auto;
 }
